@@ -1,3 +1,33 @@
+mraa (0.0.0-0~rzr3) wily; urgency=medium
+
+  * publish to ubuntu DISTRIBUTION=wily
+
+ -- Philippe Coval <rzr@gna.org>  Mon, 15 Feb 2016 13:39:52 +0100
+
+mraa (0.0.0-0~rzr2) wily; urgency=medium
+
+  * publish to ubuntu DISTRIBUTION=wily
+
+ -- Philippe Coval <rzr@gna.org>  Mon, 15 Feb 2016 13:31:58 +0100
+
+mraa (0.0.0-0~rzr1) wily; urgency=medium
+
+  * WIP: http://rzr.online.fr/q/snapshot#mraa
+
+ -- Philippe Coval <rzr@gna.org>  Mon, 15 Feb 2016 13:29:23 +0100
+
+mraa (0.0.0-0) wily; urgency=medium
+
+  * WIP: http://rzr.online.fr/q/snapshot#mraa
+
+ -- Philippe Coval <rzr@gna.org>  Mon, 15 Feb 2016 13:29:10 +0100
+
+mraa (0.0.0-0) UNRELEASED; urgency=medium
+
+  * wip: http://rzr.online.fr/q/snapshot#mraa
+
+ -- Philippe Coval <rzr@gna.org>  Mon, 15 Feb 2016 13:29:09 +0100
+
 mraa (0.0.0-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
